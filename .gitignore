@@ -1,4 +1,10 @@
 node_modules
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
 
 # Claude-generated documentation
 .priv
